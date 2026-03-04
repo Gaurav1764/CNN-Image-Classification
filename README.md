@@ -204,7 +204,7 @@ CNN-Image-Classification
 2. Open
 
 ```
-CNN_Image_Classification.ipynb
+Assignment_2.ipynb
 ```
 
 3. Run all cells
