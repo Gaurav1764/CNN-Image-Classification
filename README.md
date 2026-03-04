@@ -1,9 +1,3 @@
-Below is a **professional GitHub README** suitable for your **Assignment 2 (CNN + Transfer Learning project)**. It is structured like real ML repositories so your submission looks **clean and professional for evaluation**.
-
-You can copy this into your **`README.md`** file.
-
----
-
 # Multiclass Image Classification using CNN and Transfer Learning
 
 ## Deep Learning Architectures and Techniques – Laboratory Assignment
@@ -252,10 +246,3 @@ This project is developed for academic purposes as part of the Deep Learning lab
 
 ---
 
-If you want, I can also provide **3 things that will make your submission look even more professional**:
-
-1. A **GitHub README with diagrams of the CNN architecture**
-2. A **fully formatted 5-page report PDF for Assignment 2**
-3. A **ready-to-upload GitHub project ZIP for Assignment 2 (like I made for Assignment 1)**
-
-Those three things make the project look **like a real deep learning research repo**, which professors usually love.
