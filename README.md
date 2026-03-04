@@ -179,7 +179,7 @@ The transfer learning model performs better because pretrained networks already 
 CNN-Image-Classification
 │
 ├── Assignment_2.ipynb
-├── Cnn__Image_Classifier.py
+├── Cnn_Image_Classifier.py
 │
 ├── plots
 │   ├── cnn_accuracy.png
